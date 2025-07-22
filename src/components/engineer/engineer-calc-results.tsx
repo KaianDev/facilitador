@@ -138,7 +138,7 @@ export const EngineerCalcResults = ({
                     </li>
                   </TooltipTrigger>
                   <TooltipContent>
-                    85% do valor do orçamento - valor da proposta.
+                    Valor do orçamento - valor da proposta.
                   </TooltipContent>
                 </Tooltip>
                 <Tooltip>
